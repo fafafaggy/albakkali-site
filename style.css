@@ -1,0 +1,17 @@
+body {
+  background-color: #000;
+  color: #fff;
+  font-family: Tahoma, sans-serif;
+  padding: 30px;
+  text-align: center;
+}
+
+a {
+  color: #1e90ff;
+  text-decoration: none;
+}
+
+.container {
+  max-width: 600px;
+  margin: auto;
+}
